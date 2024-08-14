@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: blueviolet;
+}
+
+.heading{
+    font-size: 10rem;
+    font-weight: 900;
+    background: url(https://elements-resized.envatousercontent.com/envato-shoebox/cf68/06de-9a5a-4f63-b248-49f3defb1dc7/River%20Tara%20in%20the%20park.jpg?w=1400&cf_fit=scale-down&mark-alpha=18&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark4.png&q=85&format=auto&s=8e431cc125b60b382e24f271ecacedd54d5ae3481b41cc3a3d7b9f90ed6136c9);
+    background-size: cover;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
